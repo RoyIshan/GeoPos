@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "366821095817",
+    "firebase_url": "https://geopos-d2434-default-rtdb.firebaseio.com",
+    "project_id": "geopos-d2434",
+    "storage_bucket": "geopos-d2434.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:366821095817:android:8cd5bd8131ee9a716a4958",
+        "android_client_info": {
+          "package_name": "com.trystar.geopos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "366821095817-pfleu4lesucnccehrd2jlq6k7jk9ophc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcxUcnV9_5jkE0IlrY2CXCYg3cc-5mhC4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "366821095817-pfleu4lesucnccehrd2jlq6k7jk9ophc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:366821095817:android:ab3b88ba3a6f40c86a4958",
+        "android_client_info": {
+          "package_name": "com.trystar.geopose"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "366821095817-pfleu4lesucnccehrd2jlq6k7jk9ophc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcxUcnV9_5jkE0IlrY2CXCYg3cc-5mhC4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "366821095817-pfleu4lesucnccehrd2jlq6k7jk9ophc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

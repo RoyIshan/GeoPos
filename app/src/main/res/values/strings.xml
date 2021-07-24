@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GeoPos</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_show_friend_location">Map</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+</resources>

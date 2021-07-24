@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/aclonica</item>
+        <item>@font/arizonia</item>
+        <item>@font/baloo_bhaina</item>
+        <item>@font/butcherman</item>
+        <item>@font/faster_one</item>
+        <item>@font/ruge_boogie</item>
+        <item>@font/wendy_one</item>
+    </array>
+</resources>
